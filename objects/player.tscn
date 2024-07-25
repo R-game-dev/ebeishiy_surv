@@ -58,5 +58,4 @@ autoplay = "idle"
 frame_progress = 0.52064
 
 [node name="Camera2D" type="Camera2D" parent="."]
-zoom = Vector2(1.2, 1.2)
-limit_bottom = 700
+ignore_rotation = false
